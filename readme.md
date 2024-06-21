@@ -5,4 +5,4 @@ git status
 * git commit .m "text"
 * git push origin main
 * git log
-* git 
+* git checkout 
