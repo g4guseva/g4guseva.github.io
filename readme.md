@@ -1,4 +1,5 @@
 # Git
 * git init
 * git add .
-* git co
+* git commit .m "text"
+* git push origin main
